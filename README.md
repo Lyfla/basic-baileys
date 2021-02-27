@@ -88,5 +88,5 @@ Fix Stuck on linux, install google chrome stable:
 - [Lyfla](https://github.com/lyfla) (SC Recode)
 
 ## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
+- [adiwajshing](https://github.com/adiwajshing/Baileys)
 - [Zark](https://github.com/ZaRKFP)
